@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d7182381-7765-4458-95b2-38ffd89625b8"
+      }
+    },
+    "owner": "akanvou",
+    "android": {
+      "package": "com.akanvou.monneyapp"
+    }
+  }
+}
